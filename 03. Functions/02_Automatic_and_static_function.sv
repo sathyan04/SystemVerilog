@@ -1,5 +1,3 @@
-// Code your testbench here
-// or browse Examples
 module func_example();
   
   int static_result, dynamic_result;
@@ -28,3 +26,12 @@ module func_example();
     $display("\nDynamic output of 5 = %0d\n", dynamic_result);
   end
 endmodule
+
+
+/*Output:
+
+Static output of 5 	= 1
+
+Dynamic output of 5 = 120
+
+*/
