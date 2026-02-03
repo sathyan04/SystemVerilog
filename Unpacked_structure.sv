@@ -19,3 +19,17 @@ module unpacked_structure();
    
   end
 endmodule
+
+/*
+Output:
+
+Employee Details
+----------------
+Name		:	sathyan
+ID		:	15
+Salary	:	200
+
+Actual Array	: '{name:"sathyan", id:15, salary:200}
+Number of Bits	: 68
+
+*/
