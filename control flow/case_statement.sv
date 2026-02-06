@@ -1,5 +1,3 @@
-// Code your testbench here
-// or browse Examples
 module case_statement();
   bit [1:0] a;
   initial begin
